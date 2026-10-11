@@ -1,19 +1,16 @@
-#Topic:My First C Program
+Topic:My First C Program
 
 Objective:
 To write a C program that prints a message.
 
-Code:
-\\\ C Program
+Code: C Program
+
     #include <stdio.h>
     int main(){
         printf("Hello\n");
         printf("Nice to meet you");
-        return;
+        return0;
     }
-\\\ 
-
-
 
 Key Learnings:
 1. stdio.h provides standard input/output functions.
