@@ -63,8 +63,8 @@ I'm following a structured learning path to develop a strong foundation in C pro
 
 ## My Progress 📈 
 
-> Started learning C programming 
-> Created my first C program
+- Started learning C programming ✔️
+- Created my first C program ✔️
 - Learned variables and data types
 - Practiced taking user input
 - Learned conditional statements
