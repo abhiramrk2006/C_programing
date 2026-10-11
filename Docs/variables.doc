@@ -1,0 +1,60 @@
+Variables in C Programming
+
+1. Introduction
+
+A variable is a named memory location used to store data in a C program.
+The value stored in a variable can change during program execution.
+
+2. Declaring Variables
+
+The syntax for declaring a variable is:
+
+data_type variable_name;
+
+
+Example:
+
+int age;
+float height;
+douple pi;
+char grade;
+char name[];
+bool;
+
+3. Types of Variables
+
+int: Stores whole numbers(4 bytes in modern system)
+float: Stores decimal numbers(4 bytes)
+double: Stores decimal numbers with greater precision(8 bytes)
+char: Stores a single character(1 byte)
+char[]: Array of characters(size varies)
+bool: true or false (1 byte,requires <stdbool.h>)
+
+4. Initializing Variables
+
+Initializing a variable means giving it an initial value.
+
+int age = 20;
+float height = 5.8f;
+char grade = 'A';
+
+
+5. Rules for Naming Variables
+
+A variable name can contain letters, digits, and underscores.
+A variable name must not begin with a digit.
+C keywords, such as int and return, cannot be used as variable names.
+Variable names are case-sensitive. For example, age and Age are different.
+Use meaningful names such as studentAge or totalMarks.
+
+6. Practice Questions
+
+What is a variable in C?
+What is the difference between int and float?
+Declare a variable named marks and initialize it to 95.
+Write a C program that stores and prints your age.
+
+7. Conclusion
+
+Variables are one of the fundamental concepts in C programming. 
+They allow us to store, access, and manipulate data in our programs.
