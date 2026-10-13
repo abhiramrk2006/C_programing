@@ -70,6 +70,15 @@ I'm following a structured learning path to develop a strong foundation in C pro
 - Learned conditional statements
 - Built my first mini-project
 
+## What I Learned
+- To print 
+***
+- variables
+***
+- format specifiers
+***
+
+
 ## My Learning Philosophy 
 
 Every expert was once a beginner. I believe that consistent practice, patience, and curiosity will help me grow as a programmer.
