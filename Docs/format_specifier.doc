@@ -1,0 +1,53 @@
+Format Specifiers in C
+
+Today, I learned about format specifiers in C programming. 
+Format specifiers are special tokens that begin with a ' % ' symbol followed by a character that specifies the data type and optional modifiers (width, precision, flags).
+They control how data is displayed or interpreted.
+Format specifiers are used with printf() and scanf() functions to display output and take input from the user.
+
+What I Studied
+%d – Integer
+%f – Float
+%lf – Double in scanf()
+%c – Character
+%s – String
+%u – Unsigned integer
+
+
+Code Example
+
+#include <stdio.h>
+
+int main() {
+    int age = 20;
+    float marks = 85.5;
+    char grade = 'A';
+    char name[] = "Nova";
+
+    printf("Age: %d\n", age);
+    printf("Marks: %f\n", marks);
+    printf("Grade: %c\n", grade);
+    printf("Name: %s\n", name);
+    
+    float price1 = 19.99
+    float price2 = -1.50
+
+    printf("%+.1f\n",price1);
+    printf("%+.3f\n",price2);
+    return 0;
+}
+
+Output 
+
+Age: 20
+Marks: 85.500000
+Grade: A
+Name: Nova
++20.0
+-1.500
+
+Conclusion
+
+I learned how to use different format specifiers to display various data types in C programming. 
+This is an important basic concept for understanding input and output operations in C.
+
