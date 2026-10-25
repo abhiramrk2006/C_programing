@@ -1,0 +1,34 @@
+Arithmetic Operators in C Programming
+
+Today, I learned about arithmetic operators in C programming. 
+Arithmetic operators are used to perform mathematical calculations on variables and values.
+
+Types of Arithmetic Operators
+
+Operator  |	Name	        |         Description
+----------|-----------------|---------------------------------------
++	      |   Addition	    |         Adds two values
+-	      | Subtraction	    | Subtracts one value from another
+*	      | Multiplication  |      Multiplies two values
+/	      |   Division	    |   Divides one value by another
+%	      |   Modulus       | Returns the remainder after division
+++        |  Increment      | 
+--        |  Decrement      |
+--------------------------------------------------------------------
+
+
+Important Points I Learned
+
+Arithmetic operators are used to perform mathematical operations.
+The + operator adds two numbers.
+The - operator subtracts numbers.
+The * operator multiplies numbers.
+The / operator performs division. When both operands are integers, the fractional part is discarded.
+The % operator returns the remainder and works with integer operands.
+The -- operator decrements numbers by 1.
+The ++ operator increments numbers by 1.
+Division and modulus by zero must be avoided.
+
+Conclusion
+
+Today, I learned how to use arithmetic operators in C programming .

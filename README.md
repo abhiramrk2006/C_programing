@@ -65,7 +65,7 @@ I'm following a structured learning path to develop a strong foundation in C pro
 
 - Started learning C programming ✔️
 - Created my first C program ✔️
-- Learned variables and data types
+- Learned variables and data types ✔️
 - Practiced taking user input
 - Learned conditional statements
 - Built my first mini-project
@@ -73,11 +73,12 @@ I'm following a structured learning path to develop a strong foundation in C pro
 ## What I Learned
 - To print 
 ***
-- variables
+- Variables
 ***
-- format specifiers
+- Format specifiers
 ***
-
+- Arithematic Operators
+***
 
 ## My Learning Philosophy 
 
