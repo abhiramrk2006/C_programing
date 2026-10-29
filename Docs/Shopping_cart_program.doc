@@ -1,0 +1,35 @@
+What I Learned from the Shopping Cart Program in C
+Introduction
+
+I learned how to create a simple Shopping Cart Program using the C programming language in Visual Studio Code (VS Code). 
+This program helped me understand how to declare variables, take user input, display information, and calculate the total price of items.
+
+Concepts I Learned
+
+1. Use of Variables and Data Types
+
+I learned how to use different data types in C to store different kinds of information.
+
+char item – Used to store a character or a single letter representing an item.
+float price – Used to store the price of an item, including decimal values.
+int quantity – Used to store the number of items purchased.
+char currency – Used to store a single character representing a currency symbol.
+float total – Used to store the total cost of the items.
+
+2. Taking User Input
+
+I learned how to use fgets() to take input from the user. 
+It can read a line of text, including spaces, which is useful when entering an item name.
+
+3. Calculating the Total Price
+
+I learned how to calculate the total cost of the shopping cart by multiplying the price of an item by its quantity.
+
+Formula:
+
+total = price * quantity;
+
+Conclusion
+
+By creating the Shopping Cart Program, I improved my understanding of basic C programming concepts, including variables, data types, user input, output functions, and arithmetic operations. 
+This program helped me understand how programming can be used in real-life situations, such as calculating the total cost of shopping items.
