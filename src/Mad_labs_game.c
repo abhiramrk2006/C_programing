@@ -33,5 +33,5 @@ int main() {
     printf("%s was %s and %s! \n",noun,adjective2,verb);
     printf("I was %s!\n",adjective3);
 
-    return0;
+    return 0;
 }
