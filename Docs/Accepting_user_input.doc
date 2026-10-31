@@ -1,0 +1,10 @@
+What I Learned About Accepting User Input in C
+
+Today, I learned how to accept user input in the C programming language using scanf(), getchar(), and fgets().
+I learned that scanf() is used to get different types of input from the user, such as integers (%d), floating-point numbers (%f), and characters (%c).
+I also learned how to use variables to store the information entered by the user.
+I learned that fgets() is useful for accepting a full name or a sentence because it can read spaces, unlike scanf(). 
+I also understood the purpose of getchar(), which helps remove the leftover newline character from the input buffer before using fgets().
+Another thing I learned was how to use strlen() from the string.h library to remove the newline character at the end of the name.
+Overall, this lesson helped me understand how to take different types of input from users and display the information using printf(). 
+It also improved my understanding of variables, data types, and basic input and output operations in C.
