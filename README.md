@@ -83,6 +83,8 @@ I'm following a structured learning path to develop a strong foundation in C pro
 ***
 - Mad libs program
 ***
+- Math functions
+***
 
 ## My Learning Philosophy 
 
