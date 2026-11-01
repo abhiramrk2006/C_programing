@@ -1,0 +1,53 @@
+Math Functions in C
+What I Learned
+
+Today, I learned about mathematical functions in C programming using the math.h library.
+C provides several built-in mathematical functions that help us perform calculations easily without writing complicated formulas manually.
+In this program, I practiced using different math functions and storing their results in variables.
+
+Math Functions I Learned
+1. sqrt() – Square Root
+Used to find the square root of a number.
+Example: sqrt(2) returns approximately 1.414.
+
+2. pow() – Power Function
+Used to raise a number to a specific power.
+Example: pow(2, 3) returns 8.
+
+3. round() – Round Function
+Rounds a floating-point number to the nearest integer.
+Example: round(3.14) returns 3.
+
+4. ceil() – Ceiling Function
+Rounds a number up to the next integer.
+Example: ceil(3.14) returns 4.
+
+5. floor() – Floor Function
+Rounds a number down to the previous integer.
+Example: floor(3.14) returns 3.
+
+6. abs() – Absolute Value
+Returns the positive value of an integer, removing its negative sign if present.
+Example: abs(-3) returns 3.
+
+7. log() – Logarithmic Function
+Calculates the natural logarithm of a number.
+Example: log(5) returns approximately 1.609.
+
+8. sin() – Trigonometric Function
+Calculates the sine of an angle.
+The angle must be given in radians.
+Example: sin(5) returns approximately -0.959.
+
+Important Things I Learned
+
+We need to include #include <math.h> to use mathematical functions.
+Different functions are used for different mathematical operations.
+Variables are used to store the results of calculations.
+Some math functions return floating-point values, so using the correct data type is important.
+Trigonometric functions such as sin() use radians instead of degrees.
+Conclusion
+
+This lesson helped me understand how to use built-in mathematical functions in C. 
+I learned how to perform square roots, powers, rounding, absolute value calculations, logarithms, and trigonometric operations.
+It also improved my understanding of the math.h library and how mathematical operations can be performed easily in C programming.
