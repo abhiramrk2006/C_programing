@@ -1,0 +1,31 @@
+Mad Libs Game in C
+
+This is a simple Mad Libs Game developed using the C programming language.
+The program asks the user to enter different words, such as adjectives, nouns, and verbs.
+It then uses these words to generate a funny and creative story.
+
+Concepts Learned
+
+Through this project, I practised the following C programming concepts:
+
+Variables: Declaring and storing data using character arrays.
+Strings: Understanding strings and character arrays in C.
+fgets(): Taking string input from the user.
+sizeof(): Finding the size of an array.
+strlen(): Finding the length of a string.
+String manipulation: Removing the newline character using \0.
+Header files: Using stdio.h and string.h.
+Basic program structure: Understanding the main() function and return 0.
+
+How the Game Works
+
+The program asks the user to enter an adjective.
+It asks for a noun.
+It asks for another adjective.
+It asks for a verb ending in -ing.
+It asks for one more adjective.
+Finally, it generates a funny story using the entered words.
+
+What I Learned
+
+This project helped me understand how to take user input, store strings in character arrays, manipulate strings, and display dynamic output using C.
