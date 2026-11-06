@@ -1,0 +1,36 @@
+Circle and Sphere Calculator in C
+About the Project
+
+This is a simple mathematical calculator developed using the C programming language. 
+The program asks the user to enter the radius and calculates the area of a circle, the surface area of a sphere, and the volume of a sphere.
+
+Concepts Learned
+
+Through this project, I practised the following C programming concepts:
+
+Variables: Declaring and initializing variables using double.
+Constants: Using const to declare a constant value of PI.
+User Input: Using scanf() to get the radius from the user.
+Output: Using printf() to display calculated results.
+Format Specifiers: Using %lf for reading double values and %.2lf for displaying results up to two decimal places.
+Mathematical Operations: Performing multiplication, division, and exponentiation.
+Math Library: Using math.h and the pow() function to calculate powers.
+Formulas: Applying mathematical formulas in a C program.
+Formulas Used
+Area of a Circle: Area = π × r²
+Surface Area of a Sphere: Surface Area = 4 × π × r²
+Volume of a Sphere: Volume = (4/3) × π × r³
+
+Where:
+π = 3.14159
+r = Radius
+
+How the Program Works
+The program asks the user to enter the radius.
+It calculates the area of the circle.
+It calculates the surface area of the sphere.
+It calculates the volume of the sphere.
+Finally, it displays all three results with two decimal places.
+What I Learned
+
+This project helped me understand how to use mathematical formulas in C, work with double data types, use constants, perform calculations using the math library, and display formatted numerical output.
