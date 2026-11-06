@@ -79,11 +79,17 @@ I'm following a structured learning path to develop a strong foundation in C pro
 ***
 - Arithematic Operators
 ***
+- Accept user input
+***
 - Shopping cart program
 ***
 - Mad libs program
 ***
 - Math functions
+***
+- Circle calculator
+***
+- Compound intrest calculator
 ***
 
 ## My Learning Philosophy 
