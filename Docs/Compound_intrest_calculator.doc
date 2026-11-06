@@ -1,0 +1,48 @@
+Compound Interest Calculator in C
+About the Project
+
+This is a simple Compound Interest Calculator developed using the C programming language.
+The program takes the principal amount, annual interest rate, number of times interest is compounded per year, and time period as input from the user.
+It calculates the final amount and compound interest.
+
+Concepts Learned
+
+Through this project, I practised the following C programming concepts:
+
+Variables: Declaring variables using double and int.
+Constants: Using const for fixed values.
+User Input: Using scanf() to get input from the user.
+Output: Using printf() to display results.
+Mathematical Operations: Performing multiplication, division, and subtraction.
+Math Library: Using math.h and the pow() function.
+Format Specifiers: Using %lf and %.2lf.
+Formulas: Applying mathematical formulas in C.
+
+Formula Used
+
+Compound Interest Formula:
+
+A = P(1 + r/n)^(nt)
+
+Compound Interest:
+
+CI = A - P
+
+Where:
+P = Principal amount
+r = Annual interest rate (in decimal)
+n = Number of times interest is compounded per year
+t = Time period in years
+A = Final amount
+CI = Compound interest
+
+How the Program Works
+The program asks the user to enter the principal amount.
+It asks for the annual interest rate.
+It asks how many times the interest is compounded per year.
+It asks for the time period in years.
+It calculates the final amount using the compound interest formula.
+Finally, it displays the total amount and compound interest.
+
+What I Learned
+This project helped me understand how to apply mathematical formulas in C, use the pow() function, work with floating-point values, take multiple inputs, and perform financial calculations.
