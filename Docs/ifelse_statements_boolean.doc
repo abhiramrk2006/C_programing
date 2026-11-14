@@ -1,0 +1,26 @@
+Boolean Data Type & If-Else Statements
+Today i learned to use boolean with if else statements.
+
+Concepts Covered
+
+How to include the stdbool.h header file.
+How to declare a Boolean variable using bool.
+How to store true and false values.
+How to use Boolean variables inside if-else statements.
+How to execute different blocks of code depending on a Boolean condition.
+Project: Student Status Checker
+
+I created a simple C program that checks whether someone is a student.
+
+If isStudent = true, it prints "You are a student".
+If isStudent = false, it prints "You are NOT a student".
+
+What I Practiced
+
+Boolean data types
+true and false values
+stdbool.h header file
+Conditional statements
+Decision-making in C
+
+Today's Progress: Learned how Boolean values work in C and how to use them with if-else statements.
