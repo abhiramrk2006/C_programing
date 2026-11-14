@@ -1,0 +1,29 @@
+If, Else If & Else Statements
+What I Learned Today
+
+Today, I learned how to use conditional statements in C programming.
+
+Concepts Covered
+
+How to use if statements.
+How to use else if statements.
+How to use else statements.
+How to take user input using scanf().
+How to display output using printf().
+How to compare values using operators like >= and ==.
+How to make decisions based on user input.
+Project: Age Classifier
+
+I created a simple C program that asks the user to enter their age and classifies them into different categories:
+
+Age 65 or above – Senior
+Age 18 or above – Adult
+Age 0 – Newborn
+Below 18 – Child
+What I Practiced
+Conditional logic
+Comparison operators
+User input and output
+Decision-making in C
+
+Today's Progress: Practiced basic conditional statements in C and created my first age classifier program.
