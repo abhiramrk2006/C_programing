@@ -7,7 +7,7 @@ int main () {
 
     printf("Enter your name:");
     fgets(name,sizeof(name),stdin);
-    name[strlen(name-1)]='\0';
+    name[strlen(name)-1]='\0';
 
     if (strlen(name)==0){
         printf("You did not enter your name:");
@@ -17,4 +17,5 @@ int main () {
     }
 
     return 0;
-}
+    
+} 
