@@ -1,0 +1,28 @@
+If-Else Statements Using Strings
+
+I learned how to use if-else statements to check string input in C programming.
+
+Concepts Covered
+
+How to declare a string using a character array (char).
+How to take string input using fgets().
+How to use strlen() to calculate the length of a string.
+How to remove the newline character (\n) using the null terminator (\0).
+How to check whether a string is empty using strlen() == 0.
+How to use if-else statements with string conditions.
+
+I created a simple C program that asks the user to enter their name.
+
+If the user leaves the input empty, it displays "You did not enter your name".
+If the user enters a name, it displays "Hello" followed by their name.
+
+What I Practiced
+String handling
+fgets()
+strlen()
+sizeof()
+Null terminator (\0)
+If-else statements
+Conditional logic
+
+Today's Progress: Learned how to check string input using if-else statements and the strlen() function in C.
