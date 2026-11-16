@@ -1,0 +1,20 @@
+What I Learned – Weight Conversion Calculator in C
+
+Today, I created a Weight Conversion Calculator using the C programming language.
+
+Through this program, I learned:
+
+
+How to perform mathematical operations like multiplication and division.
+How to convert kilograms into pounds and pounds into kilograms.
+How to handle invalid user choices.
+
+Conversion Formulas
+
+Kilograms to Pounds: kilograms * 2.20462
+Pounds to Kilograms: pounds / 2.20462
+
+Project Goal
+
+To understand basic C programming concepts and improve my problem-solving skills by building a simple interactive calculator.
+
