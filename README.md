@@ -67,8 +67,8 @@ I'm following a structured learning path to develop a strong foundation in C pro
 - Created my first C program ✔️
 - Learned variables and data types ✔️
 - Practiced taking user input ✔️
-- Learned conditional statements
-- Built my first mini-project
+- Learned conditional statements ✔️
+- Built my first mini-project ✔️
 
 ## What I Learned
 - To print 
