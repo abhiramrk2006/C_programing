@@ -91,6 +91,17 @@ I'm following a structured learning path to develop a strong foundation in C pro
 ***
 - Compound intrest calculator
 ***
+- If-else statememt
+***
+- If-else statement with booleaan
+***
+- If-else statement with strings
+***
+- Weight converter Program
+***
+
+--- 
+
 
 ## My Learning Philosophy 
 
