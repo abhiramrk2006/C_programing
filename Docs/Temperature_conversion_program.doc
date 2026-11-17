@@ -1,0 +1,27 @@
+Temperature Conversion Program in C
+
+A simple and interactive C program that converts temperatures between Celsius (°C) and Fahrenheit (°F).
+
+What I Learned
+
+Through this project, I explored some important C programming concepts:
+
+Variables & Data Types – Using char and float to store different types of data.
+User Input & Output – Using scanf() and printf() to interact with users.
+Conditional Statements – Implementing if, else if, and else.
+Logical Operators – Using || (OR) to handle uppercase and lowercase choices.
+Mathematical Operations – Applying temperature conversion formulas.
+Input Validation – Handling invalid user choices with error messages.
+Formatted Output – Using %.1f to display temperatures with one decimal place.
+Menu-Driven Programming – Creating an interactive program with multiple options.
+
+Conversion	Formula
+Celsius to Fahrenheit	(C × 9/5) + 32
+Fahrenheit to Celsius	(F − 32) × 5/9
+
+
+My Takeaway
+
+This project helped me understand how to combine user input, conditional logic, and mathematical operations to build an interactive program.
+
+Every small project is another step towards becoming a better programmer!
