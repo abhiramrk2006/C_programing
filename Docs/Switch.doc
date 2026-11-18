@@ -1,0 +1,31 @@
+What I Learned – Days of the Week Using Switch Case in C
+
+Today, I created a Days of the Week program using the C programming language.
+
+Through this program, I learned:
+
+How to use the switch statement for decision-making.
+How case statements execute different blocks of code based on user input.
+How the break statement stops the execution of a switch case.
+How the default case handles invalid input.
+How scanf() is used to get input from the user.
+How to use printf() to display the corresponding day of the week.
+Important Logic / Formula
+
+Switch Case Logic
+
+Input: day (1–7)
+Case 1: Monday
+Case 2: Tuesday
+Case 3: Wednesday
+Case 4: Thursday
+Case 5: Friday
+Case 6: Saturday
+Case 7: Sunday
+Default: Invalid day
+
+Project Goal
+
+To understand and practice decision-making using the switch statement in C. 
+This program demonstrates how user input can be used to execute different cases and display the corresponding day of the week. 
+It also helps improve my understanding of conditional control flow and basic input/output operations in C.
