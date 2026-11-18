@@ -1,0 +1,36 @@
+Switch Statement with Characters in C
+
+Today, I practiced using the switch statement with character values in the C programming language.
+
+Through this program, I learned:
+
+How to declare a character variable using the char data type.
+How to initialize a character variable with '\0'.
+How to use the switch statement to check different character values.
+How to use single quotes (' ') for character constants.
+How case statements match the value of a variable.
+How the break statement prevents execution from continuing into the next case.
+How the default case handles invalid input.
+How to display different messages using printf().
+Important Logic / Formula
+
+Switch Case Logic
+
+char day – Declares a character variable.
+switch(day) – Checks the value of the day variable.
+case – Matches the given character value.
+break – Exits the switch statement.
+default – Displays an error message for invalid input.
+
+Important Note:
+
+In C, a char variable can store only one character, not a string such as "Mon" or "Tue". 
+Also, case 'Mon' is not a valid way to compare a string.
+
+To make this program work with inputs like Mon, Tue, and Wed, we need to use a string (char[]) and compare it using strcmp().
+
+Project Goal
+
+To understand how the switch statement works with character values in C. 
+This program helped me practice character variables, case labels, break statements, default cases, and decision-making logic. 
+I also learned the difference between characters and strings in C.
