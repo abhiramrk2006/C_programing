@@ -1,0 +1,41 @@
+ Simple Calculator in C
+
+Today, I created a Simple Calculator using the C programming language.
+
+Through this program, I learned:
+
+How to use the double data type to store decimal numbers.
+How to declare and initialize variables for numbers, operators, and results.
+How to use scanf() to get numbers and operators from the user.
+How to use %lf to read double values and %c to read a character.
+How to use the switch statement to perform different arithmetic operations.
+How to use arithmetic operators such as +, -, *, and /.
+How to use if-else inside a switch case to check division by zero.
+How to use the default case to handle invalid operators.
+Important Logic / Formula
+
+Arithmetic Operations
+
+Addition: result = num1 + num2
+Subtraction: result = num1 - num2
+Multiplication: result = num1 * num2
+Division: result = num1 / num2
+
+Important Variables
+
+operator – Stores the arithmetic operator.
+num1 – Stores the first number.
+num2 – Stores the second number.
+result – Stores the calculated answer.
+
+Important Conditions
+
+switch(operator) – Checks which arithmetic operation the user selects.
+if (num2 == 0) – Checks whether the second number is zero before division.
+default – Displays an error message if the user enters an invalid operator.
+Project Goal
+
+To understand how to create a basic calculator using the switch statement in C. 
+This program helped me practice user input, arithmetic operators, conditional statements, and decision-making logic. 
+It also helped me understand how to handle division by zero and invalid operators.
+
