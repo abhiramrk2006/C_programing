@@ -107,6 +107,8 @@ I'm following a structured learning path to develop a strong foundation in C pro
 ***
 - Nested If-Else Statements
 ***
+- Calculator program
+***
 
 --- 
 
