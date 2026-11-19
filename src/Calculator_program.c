@@ -1,7 +1,7 @@
 #include <stdio.h>
  
 int main(void) {
-    char operatior = '\0';
+    char operator = '\0';
     double num1 = 0.0;
     double num2 = 0.0;
     double result = 0.0;
@@ -12,26 +12,26 @@ int main(void) {
     scanf("%lf", &num1);
 
     printf("Enter an operator (+, -, *, /): ");
-    scanf(" %c", &operatior);
+    scanf(" %c", &operator);
   
     printf("Enter the second number: ");
     scanf("%lf", &num2);
  
-    switch (operatior) {
+    switch (operator) {
         case '+':
-            printf("Result: %.2f\n", num1 + num2 );
+            result = num1 + num2 ;
             break;
         case '-':
-            printf("Result: %.2f\n", num2 - num2 );
+            result = num1 - num2 ;
             break;
         case '*':
-            printf("Result: %.2f\n", num1 * num2 );
+            result = num1 * num2 ;
             break;
         case '/':
-            if (num2 != 0.0)
-                printf("Result: %.2f\n", num1 / num2 );
+            if (num2 == 0)    
+                printf("Error: You can't divide by 0.\n");
             else
-                printf("Error: division by zero is not allowed.\n");
+                result = num1 / num2 ;
             break;
         default:
             printf("Invalid operator.\n");
