@@ -1,0 +1,32 @@
+Nested If-Else Statements in C
+
+Today, I created a Ticket Price Discount program using the C programming language.
+
+Through this program, I learned:
+
+How to use the bool data type to store true or false values.
+How to include the stdbool.h header file to work with Boolean values.
+How to use if-else statements for decision-making.
+How to use nested if-else statements (an if statement inside another if statement).
+How to check multiple conditions, such as student and senior citizen discounts.
+How to use compound assignment operators like *=.
+How to calculate discounts using percentage values.
+How to display prices with two decimal places using %.2f.
+Important Logic / Formula
+
+Discount Logic
+
+Student + Senior: 30% discount (price *= 0.7)
+Student only: 10% discount (price *= 0.9)
+Senior only: 20% discount (price *= 0.8)
+Neither: No discount (original price remains unchanged).
+
+Important Variables
+
+float price = 10.00; – Stores the original ticket price.
+bool isStudent = false; – Checks whether the customer is a student.
+bool isSenior = false; – Checks whether the customer is a senior citizen.
+Project Goal
+
+To understand and practice nested if-else statements and Boolean conditions in C. This program demonstrates how multiple conditions can be checked to apply different discounts to a ticket price. 
+It also helped me understand Boolean values, conditional logic, percentage calculations, and formatted output.
